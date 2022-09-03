@@ -346,16 +346,6 @@ h5 {
 .header-icon {
   margin-right: 10px;
 }
-.header-icon:hover {
-  color: var(--blue);
-}
-.blue-when-hover:hover {
-  color: var(--blue);
-}
-
-.blue-when-focus:focus {
-  color: var(--blue);
-}
 .envelope {
   color: #757575;
   display: flex;
