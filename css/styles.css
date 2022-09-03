@@ -354,11 +354,11 @@ h5 {
   justify-content: center;
 }
 .telephone {
-  color: #757575;
+  fill: #757575;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .header-icon:hover {
-  color: var(--blue);
+  fill: var(--blue);
 }
