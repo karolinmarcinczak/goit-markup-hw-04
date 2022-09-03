@@ -345,6 +345,7 @@ h5 {
 }
 .header-icon {
   margin-right: 10px;
+  color: #757575;
 }
 .envelope {
   color: #757575;
@@ -358,9 +359,6 @@ h5 {
   align-items: center;
   justify-content: center;
 }
-.envelope:hover,
-.envelope:focus,
-.telephone:hover,
-.telephone:focus {
+.header-icon:hover {
   color: var(--blue);
 }
