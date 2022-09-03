@@ -112,6 +112,7 @@ body {
 }
 .contacts:hover {
   color: var(--blue);
+  fill: var(--blue);
   text-decoration: none;
 }
 .contacts:focus {
