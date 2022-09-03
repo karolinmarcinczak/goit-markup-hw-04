@@ -346,6 +346,9 @@ h5 {
 .header-icon {
   margin-right: 15px;
 }
+.header-icon:hover {
+  color: var(--blue);
+}
 .blue-when-hover:hover {
   color: var(--blue);
 }
