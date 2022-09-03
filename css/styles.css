@@ -346,3 +346,10 @@ h5 {
 .header-icon {
   margin-right: 15px;
 }
+.blue-when-hover:hover {
+  color: var(--blue);
+}
+
+.blue-when-focus:focus {
+  color: var(--blue);
+}
