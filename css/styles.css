@@ -274,6 +274,7 @@ h5 {
   list-style: none;
   flex-direction: row;
   gap: 30px;
+  margin
 } 
 .team-header {
   padding-top: 94px;
@@ -348,18 +349,16 @@ h5 {
   margin-right: 10px;
   color: #757575;
 }
-.envelope {
-  color: #757575;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.telephone {
-  fill: #757575;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 .header-icon:hover {
   fill: var(--blue);
+}
+.box-icons-descriptions {
+  width: 270px;
+  height: 120px;
+  background-color: var(--colorAlmostWhite);
+  margin-bottom: 30px;
+  border-radius: 4px;
+}
+.icons-descriptions {
+  margin: 25px 100px;
 }
