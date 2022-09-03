@@ -359,15 +359,15 @@ h5 {
   background-color: #F5F4FA;
   margin-bottom: 30px;
   border-radius: 4px;
+  fill: var(--main-text-color);
 }
 .icons-descriptions {
-  width: 70px;
-  height: 70px;
   fill: var(--main-text-color);
 }
 .box-icons-descriptions:hover,
 .box-icons-descriptions:focus {
   border: solid var(--blue);
+  fill: var(--blue);
 }
 .icons-descriptions:hover {
   fill: var(--blue);
