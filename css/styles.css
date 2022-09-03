@@ -361,7 +361,7 @@ h5 {
   border-radius: 4px;
 }
 .icons-descriptions {
-  margin: 25px 100px;
+  
   fill: var(--main-text-color);
 }
 .box-icons-descriptions:hover,
