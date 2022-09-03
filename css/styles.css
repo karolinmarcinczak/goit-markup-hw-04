@@ -362,6 +362,8 @@ h5 {
 }
 .icons-descriptions {
   fill: var(--main-text-color);
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 .box-icons-descriptions:hover,
 .box-icons-descriptions:focus {
