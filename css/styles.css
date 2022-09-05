@@ -372,8 +372,6 @@ h5 {
 .box-icons-descriptions:focus {
   border: solid var(--blue);
 }
-.icons-descriptions:hover {
-  fill: var(--blue);
 }
 .clients-container {
   width: 1600px;
