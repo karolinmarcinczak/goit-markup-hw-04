@@ -362,11 +362,7 @@ h5 {
   display: flex;
   align-items: center;
 }
-.icons-descriptions {
-  fill: var(--main-text-color);
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
+
 .box-icons-descriptions:hover,
 .box-icons-descriptions:focus {
   border: solid var(--blue);
