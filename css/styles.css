@@ -398,3 +398,12 @@ h5 {
   height: 44px;
   border-radius: 50%;
 }
+.social-media-icon {
+  fill: #AFB1B8;
+}
+.social-media-icon:hover {
+  fill: #FFFFFF;
+}
+.box-social-media-team:hover {
+  background-color: var(--blue);
+}
