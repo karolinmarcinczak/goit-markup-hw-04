@@ -395,7 +395,6 @@ h5 {
   gap: 10px;
 }
 .box-social-media-team {
-  margin-top: 16px;
   width: 44px;
   height: 44px;
   border-radius: 50%;
@@ -403,6 +402,7 @@ h5 {
   align-items: center;
   justify-content: center;
   flex-direction: row;
+  margin-bottom:  30px;
 }
 .social-media-icon {
   fill: #AFB1B8;
