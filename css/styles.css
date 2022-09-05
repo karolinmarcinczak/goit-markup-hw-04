@@ -400,6 +400,9 @@ h5 {
   height: 44px;
   border-radius: 50%;
   background-color: var(--white);
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
 }
 .social-media-icon {
   fill: #AFB1B8;
