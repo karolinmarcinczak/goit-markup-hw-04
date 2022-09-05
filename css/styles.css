@@ -386,3 +386,15 @@ h5 {
   height: 92px;
   fill: var(--iconcolor);
 }
+.social-media-team {
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+.box-social-media-team {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+}
