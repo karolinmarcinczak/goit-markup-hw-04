@@ -367,6 +367,7 @@ h5 {
 .box-icons-descriptions:hover,
 .box-icons-descriptions:focus {
   border: solid var(--blue);
+  fill: var(--blue);
 }
 
 .clients-container {
