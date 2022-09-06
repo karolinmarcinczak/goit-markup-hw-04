@@ -349,7 +349,10 @@ h5 {
   margin-right: 10px;
   color: #757575;
 }
-.header-icon:hover,
+.header-icon:hover{
+  fill: var(--blue);
+  cursor: pointer;
+}
 .icons-descriptions:hover {
   fill: var(--blue);
 }
@@ -373,6 +376,8 @@ h5 {
 .clients-container {
   width: 1600px;
   margin: auto;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 .client-symbols {
   display: flex;
