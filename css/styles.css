@@ -412,7 +412,8 @@ h5 {
   border-radius: 50%;
   background-color: var(--white);
 }
-.social-media-icon:hover {
+.social-media-icon:hover,
+.social-media-icon-footer:hover {
   fill: var(--white);
   background-color: var(--blue);
   cursor: pointer;
