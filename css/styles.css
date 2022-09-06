@@ -388,6 +388,7 @@ h5 {
 }
 .social-media-team {
   margin-bottom: 30px;
+  margin-left: 32p;
   display: flex;
   flex-direction: row;
   gap: 10px;
