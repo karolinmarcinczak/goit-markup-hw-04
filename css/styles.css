@@ -417,3 +417,22 @@ h5 {
   background-color: var(--blue);
   cursor: pointer;
 }
+.footer-container {
+  flex-direction: column;
+  display: flex;
+  color: var(--white);
+}
+.social-media-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+.social-media-icon-footer {
+  fill: var(--white);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background-color: #FFFFFF1A;
+}
