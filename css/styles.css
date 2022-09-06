@@ -430,6 +430,7 @@ h5 {
   justify-content: center;
   gap: 10px;
   margin-top: 20px;
+  margin-left: 70px;
 }
 .social-media-icon-footer {
   fill: var(--white);
