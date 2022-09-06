@@ -405,4 +405,5 @@ h5 {
 .social-media-icon:hover {
   fill: var(--white);
   background-color: var(--blue);
+  cursor: pointer;
 }
