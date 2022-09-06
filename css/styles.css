@@ -391,6 +391,10 @@ h5 {
   height: 92px;
   fill: #AFB1B8;
 }
+.icon-our-clients {
+  fill: var(--blue);
+  border: var(--blue) solid 1px;
+}
 .social-media-team {
   margin-bottom: 30px;
   margin-left: 32px;
