@@ -147,7 +147,6 @@ footer {
   width: 1600px;
   margin: auto;
   padding: 60px 0 0 0;
-  flex-direction: column;
 }
 
 .contacts-list {
@@ -290,7 +289,6 @@ h5 {
   
   width: 1600px;
   margin: auto;
-  padding-bottom: 94px;
 }
 .team-members {
   display: flex;
@@ -419,7 +417,7 @@ h5 {
   cursor: pointer;
 }
 .footer-container {
-  flex-direction: column;
+  flex-direction: row;
   display: flex;
   color: var(--white);
 }
