@@ -394,7 +394,7 @@ h5 {
   height: 92px;
   fill: #AFB1B8;
 }
-.icon-our-clients {
+.icon-our-clients:hover {
   fill: var(--blue);
   border: var(--blue) solid 1px;
 }
