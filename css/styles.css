@@ -287,15 +287,17 @@ h5 {
 }
 .team-container {
   background-color: #F5F4FA;
-  height: 648px;
+  
   width: 1600px;
   margin: auto;
+  padding-bottom: 94px;
 }
 .team-members {
   display: flex;
   flex-direction: row;
   justify-content: center;
   gap: 30px;
+  padding-bottom: 94px;
 }
 .team-card {
   background-color: var(--white);
