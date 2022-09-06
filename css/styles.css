@@ -420,7 +420,7 @@ h5 {
   cursor: pointer;
 }
 .footer-container {
-  flex-direction: column;
+  flex-direction: row;
   display: flex;
   color: var(--white);
 }
