@@ -381,10 +381,10 @@ h5 {
 }
 .icon-our-clients {
   border-radius: 4px;
-  border: var(--iconcolor) solid 1px;
+  border: #AFB1B8 solid 1px;
   width: 170px;
   height: 92px;
-  fill: var(--iconcolor);
+  fill: #AFB1B8;
 }
 .social-media-team {
   margin-bottom: 30px;
