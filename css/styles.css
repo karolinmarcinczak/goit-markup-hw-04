@@ -372,7 +372,7 @@ h5 {
 
 .clients-container {
   width: 1600px;
-  margin-bottom: 94px;
+  margin: auto;
 }
 .client-symbols {
   display: flex;
