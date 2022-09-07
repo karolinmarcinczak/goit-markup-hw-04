@@ -249,7 +249,7 @@ h5 {
   text-decoration-color: var(--blue);
   background-color: var(--blue);
   color: var(--white);
-  box-shadow: 0px 2px 2px 0px rgba(33, 150, 243, 1), 0px 1px 2px 0px rgba(33, 150, 243, 1), 0px 3px 1px 0px rgba(33, 150, 243, 1);
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 31, 1), 0px 2px 1px 0px rgba(0, 0, 0, 1), 0px 3px 1px 0px rgba(0, 0, 0, 1)
 }
 .no-dots-list{
   list-style: none;
