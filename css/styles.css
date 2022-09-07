@@ -451,3 +451,6 @@ h5 {
   flex-direction: row;
   color: var(--white);
 }
+.footer-join-us {
+  color: var(--white);
+}
