@@ -444,7 +444,7 @@ h5 {
 }
 .footer-media {
   display:flex;
-  flex-direction: row;
+  flex-direction: column;
   color: var(--white);
 }
 .footer-join-us {
